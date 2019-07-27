@@ -28,6 +28,8 @@ Note:
 
 1 <= A.length <= 50000
 -100000 <= A[i] <= 100000
+
+Link: https://leetcode.com/problems/monotonic-array/
 */
 
 class Solution {
