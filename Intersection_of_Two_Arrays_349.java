@@ -12,6 +12,8 @@ Note:
 
 Each element in the result must be unique.
 The result can be in any order.
+
+Link: https://leetcode.com/problems/intersection-of-two-arrays/
 */
 
 class Solution {
