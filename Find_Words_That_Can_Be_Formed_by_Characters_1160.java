@@ -34,6 +34,7 @@ class Solution {
                 if(chars.contains("" + words[i].charAt(j)) && checker.contains("" + words[i].charAt(j)))
                 {
                     checker = checker.replaceFirst("" + words[i].charAt(j), "");
+                    
                     if(j == words[i].length() - 1)
                     {
                         result += words[i].length();
