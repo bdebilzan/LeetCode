@@ -31,7 +31,7 @@ class Solution {
         {
             for(int j = 0; j < words[i].length(); j++)
             {   
-                if(chars.contains("" + words[i].charAt(j)) && checker.contains("" + words[i].charAt(j)))
+                if(checker.contains("" + words[i].charAt(j)))
                 {
                     checker = checker.replaceFirst("" + words[i].charAt(j), "");
                     
