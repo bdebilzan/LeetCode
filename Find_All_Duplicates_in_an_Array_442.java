@@ -13,7 +13,6 @@ Output:
 [2,3]
 
 Link: https://leetcode.com/problems/find-all-duplicates-in-an-array
-
 */
 
 class Solution {
