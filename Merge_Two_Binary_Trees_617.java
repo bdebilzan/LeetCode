@@ -6,16 +6,6 @@ Otherwise, the NOT null node will be used as the node of new tree.
 
 Link: https://leetcode.com/problems/merge-two-binary-trees
 */
-
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
  
 class Solution {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) 
