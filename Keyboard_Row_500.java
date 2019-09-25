@@ -85,10 +85,6 @@ class Solution {
                         break;
                     }
                 }
-                else
-                {
-                    break;
-                }
             }
                 checkFirst = checkSecond = checkThird = false;   
         }
