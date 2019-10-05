@@ -52,6 +52,6 @@ class Solution {
          
         Arrays.sort(result);
         
-        return (int)result[0];
+        return (int) result[0];
     }
 }
