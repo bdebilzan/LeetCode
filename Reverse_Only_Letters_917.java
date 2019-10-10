@@ -30,7 +30,7 @@ class Solution {
         {            
             if(!Character.isLetter(S.charAt(i)))
             {
- 		        result[i] = S.charAt(i);
+ 		    result[i] = S.charAt(i);
             }
             else
             {
